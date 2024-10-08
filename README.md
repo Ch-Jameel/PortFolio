@@ -19,9 +19,9 @@ Hello! I'm a Machine Learning Engineer passionate about providing custom AI solu
 - [Titanic-Surviver-Classification](https://github.com/Ch-Jameel/Titanic-Surviver-Classification)
 
 ## Image Classification and Detection Projects
-- [Project Name 1](link-to-your-project-1)
-- [Project Name 2](link-to-your-project-2)
-- [Project Name 3](link-to-your-project-3)
+- [Cotton Leafs Disease Classification](https://github.com/Ch-Jameel/Image-Classification)
+- [Fruit Classification with TensorFlow](https://github.com/Ch-Jameel/Fruits-Images-Classification-)
+- [Dice-detection](https://github.com/Ch-Jameel/Dice-detection-Using-YOLOV8)
 
 ## Natural Language Processing Projects
 - [Project Name 1](link-to-your-project-1)
