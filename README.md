@@ -25,5 +25,6 @@ Hello! I'm a Machine Learning Engineer passionate about providing custom AI solu
 
 ## Natural Language Processing Projects
 - [Text Processing in Python: A Repository of Essential NLP Techniques](https://github.com/Ch-Jameel/Natural-Language-Processing)
-- [Code Summarization Using OpenAI and Langchain](link-to-your-project-2)
-- [Lyrics Writing Bot using Gemini pro](link-to-your-project-3)
+## GenAI Projects
+- [Code Summarization Using OpenAI and Langchain  (Will show on demand)](link-to-your-project-2)
+- [Lyrics Writing Bot using Gemini pro  (Will show on demand)](link-to-your-project-3)
