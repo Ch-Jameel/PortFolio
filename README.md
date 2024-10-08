@@ -21,6 +21,7 @@ Hello! I'm a Machine Learning Engineer passionate about providing custom AI solu
 ## Image Classification and Detection Projects
 - [Cotton Leafs Disease Classification](https://github.com/Ch-Jameel/Image-Classification)
 - [Fruit Classification with TensorFlow](https://github.com/Ch-Jameel/Fruits-Images-Classification-)
+- [Mask Detection Web API](https://github.com/Ch-Jameel/Mask-Detection-App)
 - [Dice-detection](https://github.com/Ch-Jameel/Dice-detection-Using-YOLOV8)
 
 ## Natural Language Processing Projects
