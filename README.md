@@ -24,6 +24,6 @@ Hello! I'm a Machine Learning Engineer passionate about providing custom AI solu
 - [Dice-detection](https://github.com/Ch-Jameel/Dice-detection-Using-YOLOV8)
 
 ## Natural Language Processing Projects
-- [Project Name 1](link-to-your-project-1)
-- [Project Name 2](link-to-your-project-2)
-- [Project Name 3](link-to-your-project-3)
+- [Text Processing in Python: A Repository of Essential NLP Techniques](https://github.com/Ch-Jameel/Natural-Language-Processing)
+- [Code Summarization Using OpenAI and Langchain](link-to-your-project-2)
+- [Lyrics Writing Bot using Gemini pro](link-to-your-project-3)
