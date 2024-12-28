@@ -29,4 +29,4 @@ Hello! I'm a Machine Learning Engineer passionate about providing custom AI solu
 ## GenAI Projects
 - [Code Summarization Using OpenAI and Langchain  (Will show on demand)](link-to-your-project-2)
 - [Lyrics Writing Bot using Gemini pro  (Will show on demand)](link-to-your-project-3)
-- [essay writing and evaluation bot ]
+- [essay writing and evaluation bot (Will show on demand)]]
