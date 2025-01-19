@@ -6,6 +6,8 @@ Hello! I'm a Machine Learning Engineer passionate about providing custom AI solu
 ## Python Projects
 - [Python for Everyone: From Basics to Advanced Topics](https://github.com/Ch-Jameel/python-programming)
 - [Islamic Clock Software](https://github.com/Ch-Jameel/Islamic-Clock-Project)
+- [Web Scrapping]
+- [social media automation like snapchat, tiktok and tinder bot]
 
 ## Machine Learning and Data Science Projects
 - [Human Activity Prediction Using Sensor Stream Data](https://github.com/Ch-Jameel/ANN-and-random-Forset-and-Voting-Classifier)
