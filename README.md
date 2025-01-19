@@ -1,7 +1,7 @@
 # Portfolio Repository
 
 ## Introduction
-Hello! I'm a Machine Learning Engineer passionate about providing custom AI solutions. I hold a Master's degree in Data Science from FAST University Islamabad. My expertise spans various domains of artificial intelligence, including machine learning, data science, image classification and detection, and natural language processing. This repository showcases some projects demonstrating my skills and knowledge in these areas.
+Hello! I'm a Machine Learning Engineer passionate about providing custom AI solutions. I hold a Master's degree in Data Science from FAST University Islamabad. My expertise spans various domains of artificial intelligence, including machine learning, data science, image classification and detection, and natural language processing incluing Generative AI. This repository showcases some projects demonstrating my skills and knowledge in these areas.
 
 ## Python Projects
 - [Python for Everyone: From Basics to Advanced Topics](https://github.com/Ch-Jameel/python-programming)
